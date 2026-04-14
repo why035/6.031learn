@@ -1,5 +1,5 @@
 # 6.031learn
-// Java
+# java
 int n = 3;
 while (n != 1) {
     System.out.println(n);
